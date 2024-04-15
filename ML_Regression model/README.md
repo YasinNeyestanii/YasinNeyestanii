@@ -1,0 +1,1 @@
+It is a data of car prices that I downloaded from kaggle, and I wrote a regression model for it, which can predict the price of a car based on the vignettes of a car.

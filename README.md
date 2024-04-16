@@ -1,4 +1,4 @@
-#  👋 Hi, I’m YasinNeyestani
+#  👋 Hi, I’m Yasin Neyestani
 - ❤️ Welcome to my Github profile
 #  🧑🏻‍💻 About Me:
 - 👀 I’m interested in Data science

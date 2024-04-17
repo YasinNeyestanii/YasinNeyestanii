@@ -7,7 +7,7 @@
 - 🏫 I'm a bachelor's student in electrical engineering at Mazandaran University
 - 📫 My telegram username is yasinw_ne and my linkdin username is yasin-neyestani
 - 😄 Pronouns: Python
-- ⚡ Fun fact: ...😄
+- ⚡ Fun fact: Dark mode because light attracts bugs 
 
 <!---
 YasinNeyestanii/YasinNeyestanii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

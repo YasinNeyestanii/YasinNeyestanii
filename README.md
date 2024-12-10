@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ML and DL with python language
 - 💞️ I’m looking to collaborate in the field of data science , ML , DL , data analysis
 - 🏫 I'm a bachelor's student in electrical engineering at Mazandaran University
-- 📫 My telegram username is yasinw_ne and my linkdin username is yasin-neyestani
+- 📫 My telegram username is @yasin_neyestani and my linkdin username is yasin-neyestani
 - 😄 Pronouns: Python
 - ⚡ Fun fact: Dark mode because light attracts bugs 
 
